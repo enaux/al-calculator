@@ -1,1 +1,6 @@
 .docs/
+.venv/
+.env
+frontend/node_modules/
+frontend/dist/
+iterations/
