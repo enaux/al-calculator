@@ -5,6 +5,11 @@
 # Standard Week: 37.5 hours
 # Bank Holiday Allowance: 10 days
 
+# Date difference API calculates "date2 - date1",
+# whereby date2 is excluded from the count.
+# Therefore the end date is always set as 1st April
+# of the following employment year to allow for this.
+
 # ANNUAL LEAVE ENTITLEMENT
 # -----------------------------------------------
 # Staff Nurses:
