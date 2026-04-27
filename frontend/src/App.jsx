@@ -111,7 +111,7 @@ export default function App() {
 
   return (
     <main>
-      <h1>HSE Annual Leave Calculator</h1>
+      <h1>HSE Nursing - Annual Leave Calculator</h1>
       <p>Leave year: {fmt(yearStart)} to {fmt(yearLastDay)}</p>
 
       <form onSubmit={handleSubmit} noValidate>
